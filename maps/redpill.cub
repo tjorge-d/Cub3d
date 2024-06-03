@@ -1,0 +1,16 @@
+
+WE ./Assets/tate_wall_1.xpm
+NO ./Assets/milos_wall_1.xpm
+EA ./Assets/sigma_wall_1.xpm
+SO ./Assets/bale_wall_1.xpm
+
+C  0,0,0
+F  0,0,0
+
+ 11111
+1122211
+1200021
+120N021
+1200021
+1122211
+ 11111
